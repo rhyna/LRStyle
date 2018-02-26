@@ -1,2 +1,2 @@
 # LRStyle
-Протестировано в Chrome, Opera, Mozilla последних версий, Safari 8+ на MacOS, Safari на iPhone 5s+, IE10+
+Tested in Chrome, Opera, Mozilla (latest versions), Safari 8+ on MacOS, Safari on iPhone 5s+, IE10+
